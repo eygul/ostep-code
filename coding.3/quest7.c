@@ -17,3 +17,8 @@ int main()
         printf("Fork failed.\n");
     }
 }
+
+// Eren Gul
+
+// Write a program that creates a child process, and then in the child closes standard output (STDOUT FILENO). What happens if the child calls printf() to print some output after closing the descriptor?
+// Answer: The child process ends up not printing out the statement. In my program's case, `printf("Test\n")` does not get printed.
