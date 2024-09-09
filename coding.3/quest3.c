@@ -16,3 +16,6 @@ int main() {
 
     return 0;
 }
+
+// Eren Gul
+// You should try to ensure that the child process always prints first; can you do this without calling wait() in the parent? -- Yes, I was able to. do it without calling wait().
