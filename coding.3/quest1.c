@@ -24,3 +24,8 @@ int main() {
     return 0;
 }
 
+
+// Eren Gul
+// What value is the variable in the child process? -- The value in the child process is 101.
+// What happens to the variable when both the child and parent change the value of x? -- The value of the variable gets overwritten by the last process that changes the value of the variable.
+
