@@ -21,3 +21,7 @@ int main()
         fprintf(stderr, "Fork failed...");
     }
 }
+
+// Eren Gul
+// Now write a program that uses wait() to wait for the child process to finish in the parent. What does wait() return? What happens if you use wait() in the child?
+// Answer: wait() returns -1. When the wait() method is used in the child process, the parent process runs first.
