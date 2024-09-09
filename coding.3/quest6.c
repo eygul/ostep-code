@@ -24,3 +24,8 @@ int main()
 
     return 0;
 }
+
+// Eren Gul
+
+// Write a slight modification of the previous program, this time using waitpid() instead of wait(). When would waitpid() be useful?
+// Answer: waitpid() would be useful in calling the wait function for a specific process where we know the pid (process id).
