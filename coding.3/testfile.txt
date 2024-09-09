@@ -1,0 +1,11 @@
+Parent process writing before fork.
+Parent process writing after fork.
+Parent process writing after fork.
+Parent process writing after fork.
+Parent process writing after fork.
+Parent process writing after fork.
+Child process writing after fork.
+Child process writing after fork.
+Child process writing after fork.
+Child process writing after fork.
+Child process writing after fork.
