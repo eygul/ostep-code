@@ -45,3 +45,8 @@ int main() {
 
     return 0;
 }
+
+// Eren Gul
+
+// Write a program that calls fork() and then calls some form of exec() to run the program /bin/ls. See if you can try all of the variants of exec(), including (on Linux) execl(), execle(), execlp(), execv(), execvp(), and execvpe(). Why do you think there are so many variants of the same basic call?
+// Answer: There are so many variants of the same basic call, because of convenience and variety. Having different variants can help developers choose the right system call for different situations.
